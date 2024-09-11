@@ -1,0 +1,213 @@
+{
+  "ListOfStates": [
+    {
+      "state": "Alabama",
+      "electoralVotes": 9
+    },
+    {
+      "state": "Alaska",
+      "electoralVotes": 3
+    },
+    {
+      "state": "Arizona",
+      "electoralVotes": 11
+    },
+    {
+      "state": "Arkansas",
+      "electoralVotes": 6
+    },
+    {
+      "state": "California",
+      "electoralVotes": 54
+    },
+    {
+      "state": "Colorado",
+      "electoralVotes": 10
+    },
+    {
+      "state": "Connecticut",
+      "electoralVotes": 7
+    },
+    {
+      "state": "Delaware",
+      "electoralVotes": 3
+    },
+    {
+      "state": "District-of-Columbia",
+      "electoralVotes": 3
+    },
+    {
+      "state": "Florida",
+      "electoralVotes": 30
+    },
+    {
+      "state": "Georgia",
+      "electoralVotes": 16
+    },
+    {
+      "state": "Hawaii",
+      "electoralVotes": 4
+    },
+    {
+      "state": "Idaho",
+      "electoralVotes": 4
+    },
+    {
+      "state": "Illinois",
+      "electoralVotes": 19
+    },
+    {
+      "state": "Indiana",
+      "electoralVotes": 11
+    },
+    {
+      "state": "Iowa",
+      "electoralVotes": 6
+    },
+    {
+      "state": "Kansas",
+      "electoralVotes": 6
+    },
+    {
+      "state": "Kentucky",
+      "electoralVotes": 8
+    },
+    {
+      "state": "Louisiana",
+      "electoralVotes": 8
+    },
+    {
+      "state": "Maine",
+      "electoralVotes": 4
+    },
+    {
+      "state": "Maryland",
+      "electoralVotes": 10
+    },
+    {
+      "state": "Massachusetts",
+      "electoralVotes": 11
+    },
+    {
+      "state": "Michigan",
+      "electoralVotes": 15
+    },
+    {
+      "state": "Minnesota",
+      "electoralVotes": 10
+    },
+    {
+      "state": "Mississippi",
+      "electoralVotes": 6
+    },
+    {
+      "state": "Missouri",
+      "electoralVotes": 10
+    },
+    {
+      "state": "Montana",
+      "electoralVotes": 4
+    },
+    {
+      "state": "Nebraska",
+      "electoralVotes": 5
+    },
+    {
+      "state": "Nevada",
+      "electoralVotes": 6
+    },
+    {
+      "state": "New-Hampshire",
+      "electoralVotes": 4
+    },
+    {
+      "state": "New-Jersey",
+      "electoralVotes": 14
+    },
+    {
+      "state": "New-Mexico",
+      "electoralVotes": 5
+    },
+    {
+      "state": "New-York",
+      "electoralVotes": 28
+    },
+    {
+      "state": "North-Carolina",
+      "electoralVotes": 16
+    },
+    {
+      "state": "North-Dakota",
+      "electoralVotes": 3
+    },
+    {
+      "state": "Ohio",
+      "electoralVotes": 17
+    },
+    {
+      "state": "Oklahoma",
+      "electoralVotes": 7
+    },
+    {
+      "state": "Oregon",
+      "electoralVotes": 8
+    },
+    {
+      "state": "Pennsylvania",
+      "electoralVotes": 19
+    },
+    {
+      "state": "Rhode-Island",
+      "electoralVotes": 4
+    },
+    {
+      "state": "South-Carolina",
+      "electoralVotes": 9
+    },
+    {
+      "state": "South-Dakota",
+      "electoralVotes": 3
+    },
+    {
+      "state": "Tennessee",
+      "electoralVotes": 11
+    },
+    {
+      "state": "Texas",
+      "electoralVotes": 40
+    },
+    {
+      "state": "Utah",
+      "electoralVotes": 6
+    },
+    {
+      "state": "Vermont",
+      "electoralVotes": 3
+    },
+    {
+      "state": "Virginia",
+      "electoralVotes": 13
+    },
+    {
+      "state": "Washington",
+      "electoralVotes": 12
+    },
+    {
+      "state": "West-Virginia",
+      "electoralVotes": 4
+    },
+    {
+      "state": "Wisconsin",
+      "electoralVotes": 10
+    },
+    {
+      "state": "Wyoming",
+      "electoralVotes": 3
+    },
+    {
+      "state": "national",
+      "state0": "United-States",
+      "electoralVotes": 538
+    }
+  ]
+}

@@ -1,0 +1,2930 @@
+{
+	"Data": {
+		"2024-08-26T00:00:00-07:00": [
+			{
+				"state": "Alabama",
+				"electoralVotes": 9,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Alaska",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 29,
+				"RepublicanPollPercentage": 37
+			},
+			{
+				"state": "Arizona",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 11,
+				"DemocratPollPercentage": 45.4,
+				"RepublicanPollPercentage": 44
+			},
+			{
+				"state": "Arkansas",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 24,
+				"RepublicanPollPercentage": 57
+			},
+			{
+				"state": "California",
+				"electoralVotes": 54,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 54,
+				"DemocratPollPercentage": 59,
+				"RepublicanPollPercentage": 34
+			},
+			{
+				"state": "Colorado",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 39
+			},
+			{
+				"state": "Connecticut",
+				"electoralVotes": 7,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Delaware",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "District-of-Columbia",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Florida",
+				"electoralVotes": 30,
+				"RepublicanElectoralVotes": 30,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 43.3,
+				"RepublicanPollPercentage": 47.3
+			},
+			{
+				"state": "Georgia",
+				"electoralVotes": 16,
+				"RepublicanElectoralVotes": 16,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45.6,
+				"RepublicanPollPercentage": 46.2
+			},
+			{
+				"state": "Hawaii",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Idaho",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 26,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Illinois",
+				"electoralVotes": 19,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 19,
+				"DemocratPollPercentage": 43,
+				"RepublicanPollPercentage": 34
+			},
+			{
+				"state": "Indiana",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 11,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 34,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Iowa",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 32,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Kansas",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 47
+			},
+			{
+				"state": "Kentucky",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 8,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 26,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Louisiana",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 8,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 33,
+				"RepublicanPollPercentage": 48
+			},
+			{
+				"state": "Maine",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 62,
+				"RepublicanPollPercentage": 33
+			},
+			{
+				"state": "Maryland",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 59,
+				"RepublicanPollPercentage": 29
+			},
+			{
+				"state": "Massachusetts",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 11,
+				"DemocratPollPercentage": 51.5,
+				"RepublicanPollPercentage": 26.5
+			},
+			{
+				"state": "Michigan",
+				"electoralVotes": 15,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 15,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 43.8
+			},
+			{
+				"state": "Minnesota",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 47,
+				"RepublicanPollPercentage": 40.5
+			},
+			{
+				"state": "Mississippi",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Missouri",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 10,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 35,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Montana",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 38.7,
+				"RepublicanPollPercentage": 54.3
+			},
+			{
+				"state": "Nebraska",
+				"electoralVotes": 5,
+				"RepublicanElectoralVotes": 5,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 47
+			},
+			{
+				"state": "Nevada",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 45.7
+			},
+			{
+				"state": "New-Hampshire",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 47,
+				"RepublicanPollPercentage": 42
+			},
+			{
+				"state": "New-Jersey",
+				"electoralVotes": 14,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 14,
+				"DemocratPollPercentage": 41,
+				"RepublicanPollPercentage": 36
+			},
+			{
+				"state": "New-Mexico",
+				"electoralVotes": 5,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 5,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 40.5
+			},
+			{
+				"state": "New-York",
+				"electoralVotes": 28,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 28,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 37
+			},
+			{
+				"state": "North-Carolina",
+				"electoralVotes": 16,
+				"RepublicanElectoralVotes": 16,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45.6,
+				"RepublicanPollPercentage": 46.4
+			},
+			{
+				"state": "North-Dakota",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 28,
+				"RepublicanPollPercentage": 62
+			},
+			{
+				"state": "Ohio",
+				"electoralVotes": 17,
+				"RepublicanElectoralVotes": 17,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 39,
+				"RepublicanPollPercentage": 48
+			},
+			{
+				"state": "Oklahoma",
+				"electoralVotes": 7,
+				"RepublicanElectoralVotes": 7,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 27,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Oregon",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 8,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 40
+			},
+			{
+				"state": "Pennsylvania",
+				"electoralVotes": 19,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 19,
+				"DemocratPollPercentage": 46.3,
+				"RepublicanPollPercentage": 44
+			},
+			{
+				"state": "Rhode-Island",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 40,
+				"RepublicanPollPercentage": 33
+			},
+			{
+				"state": "South-Carolina",
+				"electoralVotes": 9,
+				"RepublicanElectoralVotes": 9,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 32,
+				"RepublicanPollPercentage": 49
+			},
+			{
+				"state": "South-Dakota",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Tennessee",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 11,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 28,
+				"RepublicanPollPercentage": 57
+			},
+			{
+				"state": "Texas",
+				"electoralVotes": 40,
+				"RepublicanElectoralVotes": 40,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Utah",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 25,
+				"RepublicanPollPercentage": 51
+			},
+			{
+				"state": "Vermont",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 3,
+				"DemocratPollPercentage": 67,
+				"RepublicanPollPercentage": 27
+			},
+			{
+				"state": "Virginia",
+				"electoralVotes": 13,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 13,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 42
+			},
+			{
+				"state": "Washington",
+				"electoralVotes": 12,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 12,
+				"DemocratPollPercentage": 52,
+				"RepublicanPollPercentage": 38
+			},
+			{
+				"state": "West-Virginia",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 23,
+				"RepublicanPollPercentage": 59
+			},
+			{
+				"state": "Wisconsin",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 48,
+				"RepublicanPollPercentage": 43
+			},
+			{
+				"state": "Wyoming",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 15,
+				"RepublicanPollPercentage": 68
+			},
+			{
+				"state": "national",
+				"electoralVotes": 538,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			}
+		],
+		"2024-08-29T00:00:00-07:00": [
+			{
+				"state": "Alabama",
+				"electoralVotes": 9,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Alaska",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 29,
+				"RepublicanPollPercentage": 37
+			},
+			{
+				"state": "Arizona",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 11,
+				"DemocratPollPercentage": 45.4,
+				"RepublicanPollPercentage": 44
+			},
+			{
+				"state": "Arkansas",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 24,
+				"RepublicanPollPercentage": 57
+			},
+			{
+				"state": "California",
+				"electoralVotes": 54,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 54,
+				"DemocratPollPercentage": 59,
+				"RepublicanPollPercentage": 34
+			},
+			{
+				"state": "Colorado",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 39
+			},
+			{
+				"state": "Connecticut",
+				"electoralVotes": 7,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Delaware",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "District-of-Columbia",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Florida",
+				"electoralVotes": 30,
+				"RepublicanElectoralVotes": 30,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 43.3,
+				"RepublicanPollPercentage": 47.3
+			},
+			{
+				"state": "Georgia",
+				"electoralVotes": 16,
+				"RepublicanElectoralVotes": 16,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45.6,
+				"RepublicanPollPercentage": 46.2
+			},
+			{
+				"state": "Hawaii",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Idaho",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 26,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Illinois",
+				"electoralVotes": 19,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 19,
+				"DemocratPollPercentage": 43,
+				"RepublicanPollPercentage": 34
+			},
+			{
+				"state": "Indiana",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 11,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 34,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Iowa",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 32,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Kansas",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 47
+			},
+			{
+				"state": "Kentucky",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 8,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 26,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Louisiana",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 8,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 33,
+				"RepublicanPollPercentage": 48
+			},
+			{
+				"state": "Maine",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 62,
+				"RepublicanPollPercentage": 33
+			},
+			{
+				"state": "Maryland",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 59,
+				"RepublicanPollPercentage": 29
+			},
+			{
+				"state": "Massachusetts",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 11,
+				"DemocratPollPercentage": 51.5,
+				"RepublicanPollPercentage": 26.5
+			},
+			{
+				"state": "Michigan",
+				"electoralVotes": 15,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 15,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 43.8
+			},
+			{
+				"state": "Minnesota",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 47,
+				"RepublicanPollPercentage": 40.5
+			},
+			{
+				"state": "Mississippi",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Missouri",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 10,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 35,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Montana",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 38.7,
+				"RepublicanPollPercentage": 54.3
+			},
+			{
+				"state": "Nebraska",
+				"electoralVotes": 5,
+				"RepublicanElectoralVotes": 5,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 47
+			},
+			{
+				"state": "Nevada",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 45.7
+			},
+			{
+				"state": "New-Hampshire",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 47,
+				"RepublicanPollPercentage": 42
+			},
+			{
+				"state": "New-Jersey",
+				"electoralVotes": 14,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 14,
+				"DemocratPollPercentage": 41,
+				"RepublicanPollPercentage": 36
+			},
+			{
+				"state": "New-Mexico",
+				"electoralVotes": 5,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 5,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 40.5
+			},
+			{
+				"state": "New-York",
+				"electoralVotes": 28,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 28,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 37
+			},
+			{
+				"state": "North-Carolina",
+				"electoralVotes": 16,
+				"RepublicanElectoralVotes": 16,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45.6,
+				"RepublicanPollPercentage": 46.4
+			},
+			{
+				"state": "North-Dakota",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 28,
+				"RepublicanPollPercentage": 62
+			},
+			{
+				"state": "Ohio",
+				"electoralVotes": 17,
+				"RepublicanElectoralVotes": 17,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 39,
+				"RepublicanPollPercentage": 48
+			},
+			{
+				"state": "Oklahoma",
+				"electoralVotes": 7,
+				"RepublicanElectoralVotes": 7,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 27,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Oregon",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 8,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 40
+			},
+			{
+				"state": "Pennsylvania",
+				"electoralVotes": 19,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 19,
+				"DemocratPollPercentage": 46.3,
+				"RepublicanPollPercentage": 44
+			},
+			{
+				"state": "Rhode-Island",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 40,
+				"RepublicanPollPercentage": 33
+			},
+			{
+				"state": "South-Carolina",
+				"electoralVotes": 9,
+				"RepublicanElectoralVotes": 9,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 32,
+				"RepublicanPollPercentage": 49
+			},
+			{
+				"state": "South-Dakota",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Tennessee",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 11,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 28,
+				"RepublicanPollPercentage": 57
+			},
+			{
+				"state": "Texas",
+				"electoralVotes": 40,
+				"RepublicanElectoralVotes": 40,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Utah",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 25,
+				"RepublicanPollPercentage": 51
+			},
+			{
+				"state": "Vermont",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 3,
+				"DemocratPollPercentage": 67,
+				"RepublicanPollPercentage": 27
+			},
+			{
+				"state": "Virginia",
+				"electoralVotes": 13,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 13,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 42
+			},
+			{
+				"state": "Washington",
+				"electoralVotes": 12,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 12,
+				"DemocratPollPercentage": 52,
+				"RepublicanPollPercentage": 38
+			},
+			{
+				"state": "West-Virginia",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 23,
+				"RepublicanPollPercentage": 59
+			},
+			{
+				"state": "Wisconsin",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 48,
+				"RepublicanPollPercentage": 43
+			},
+			{
+				"state": "Wyoming",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 15,
+				"RepublicanPollPercentage": 68
+			},
+			{
+				"state": "national",
+				"electoralVotes": 538,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			}
+		],
+		"2024-08-30T00:00:00-07:00": [
+			{
+				"state": "Alabama",
+				"electoralVotes": 9,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Alaska",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 29,
+				"RepublicanPollPercentage": 37
+			},
+			{
+				"state": "Arizona",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 11,
+				"DemocratPollPercentage": 46,
+				"RepublicanPollPercentage": 45
+			},
+			{
+				"state": "Arkansas",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 24,
+				"RepublicanPollPercentage": 57
+			},
+			{
+				"state": "California",
+				"electoralVotes": 54,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 54,
+				"DemocratPollPercentage": 59,
+				"RepublicanPollPercentage": 34
+			},
+			{
+				"state": "Colorado",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 39
+			},
+			{
+				"state": "Connecticut",
+				"electoralVotes": 7,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Delaware",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "District-of-Columbia",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Florida",
+				"electoralVotes": 30,
+				"RepublicanElectoralVotes": 30,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 43.3,
+				"RepublicanPollPercentage": 47.3
+			},
+			{
+				"state": "Georgia",
+				"electoralVotes": 16,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 46.2,
+				"RepublicanPollPercentage": 46.2
+			},
+			{
+				"state": "Hawaii",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Idaho",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 26,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Illinois",
+				"electoralVotes": 19,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 19,
+				"DemocratPollPercentage": 43,
+				"RepublicanPollPercentage": 34
+			},
+			{
+				"state": "Indiana",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 11,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 34,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Iowa",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 32,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Kansas",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 47
+			},
+			{
+				"state": "Kentucky",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 8,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 26,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Louisiana",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 8,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 33,
+				"RepublicanPollPercentage": 48
+			},
+			{
+				"state": "Maine",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 62,
+				"RepublicanPollPercentage": 33
+			},
+			{
+				"state": "Maryland",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 59,
+				"RepublicanPollPercentage": 29
+			},
+			{
+				"state": "Massachusetts",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 11,
+				"DemocratPollPercentage": 51.5,
+				"RepublicanPollPercentage": 26.5
+			},
+			{
+				"state": "Michigan",
+				"electoralVotes": 15,
+				"RepublicanElectoralVotes": 15,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45.2,
+				"RepublicanPollPercentage": 45.4
+			},
+			{
+				"state": "Minnesota",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 47,
+				"RepublicanPollPercentage": 40.5
+			},
+			{
+				"state": "Mississippi",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Missouri",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 10,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 35,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Montana",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 38.7,
+				"RepublicanPollPercentage": 54.3
+			},
+			{
+				"state": "Nebraska",
+				"electoralVotes": 5,
+				"RepublicanElectoralVotes": 5,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 47
+			},
+			{
+				"state": "Nevada",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 44.8,
+				"RepublicanPollPercentage": 45.4
+			},
+			{
+				"state": "New-Hampshire",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 47,
+				"RepublicanPollPercentage": 42
+			},
+			{
+				"state": "New-Jersey",
+				"electoralVotes": 14,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 14,
+				"DemocratPollPercentage": 41,
+				"RepublicanPollPercentage": 36
+			},
+			{
+				"state": "New-Mexico",
+				"electoralVotes": 5,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 5,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 40.5
+			},
+			{
+				"state": "New-York",
+				"electoralVotes": 28,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 28,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 37
+			},
+			{
+				"state": "North-Carolina",
+				"electoralVotes": 16,
+				"RepublicanElectoralVotes": 16,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 46,
+				"RepublicanPollPercentage": 46.5
+			},
+			{
+				"state": "North-Dakota",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 28,
+				"RepublicanPollPercentage": 62
+			},
+			{
+				"state": "Ohio",
+				"electoralVotes": 17,
+				"RepublicanElectoralVotes": 17,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 39,
+				"RepublicanPollPercentage": 48
+			},
+			{
+				"state": "Oklahoma",
+				"electoralVotes": 7,
+				"RepublicanElectoralVotes": 7,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 27,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Oregon",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 8,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 40
+			},
+			{
+				"state": "Pennsylvania",
+				"electoralVotes": 19,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 19,
+				"DemocratPollPercentage": 46.8,
+				"RepublicanPollPercentage": 44.8
+			},
+			{
+				"state": "Rhode-Island",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 40,
+				"RepublicanPollPercentage": 33
+			},
+			{
+				"state": "South-Carolina",
+				"electoralVotes": 9,
+				"RepublicanElectoralVotes": 9,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 32,
+				"RepublicanPollPercentage": 49
+			},
+			{
+				"state": "South-Dakota",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Tennessee",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 11,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 28,
+				"RepublicanPollPercentage": 57
+			},
+			{
+				"state": "Texas",
+				"electoralVotes": 40,
+				"RepublicanElectoralVotes": 40,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Utah",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 25,
+				"RepublicanPollPercentage": 51
+			},
+			{
+				"state": "Vermont",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 3,
+				"DemocratPollPercentage": 67,
+				"RepublicanPollPercentage": 27
+			},
+			{
+				"state": "Virginia",
+				"electoralVotes": 13,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 13,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 42
+			},
+			{
+				"state": "Washington",
+				"electoralVotes": 12,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 12,
+				"DemocratPollPercentage": 52,
+				"RepublicanPollPercentage": 38
+			},
+			{
+				"state": "West-Virginia",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 23,
+				"RepublicanPollPercentage": 59
+			},
+			{
+				"state": "Wisconsin",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 48.4,
+				"RepublicanPollPercentage": 43.2
+			},
+			{
+				"state": "Wyoming",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 15,
+				"RepublicanPollPercentage": 68
+			},
+			{
+				"state": "national",
+				"electoralVotes": 538,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			}
+		],
+		"2024-08-31T00:00:00-07:00": [
+			{
+				"state": "Alabama",
+				"electoralVotes": 9,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Alaska",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 29,
+				"RepublicanPollPercentage": 37
+			},
+			{
+				"state": "Arizona",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 11,
+				"DemocratPollPercentage": 46.4,
+				"RepublicanPollPercentage": 45.4
+			},
+			{
+				"state": "Arkansas",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 24,
+				"RepublicanPollPercentage": 57
+			},
+			{
+				"state": "California",
+				"electoralVotes": 54,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 54,
+				"DemocratPollPercentage": 59,
+				"RepublicanPollPercentage": 34
+			},
+			{
+				"state": "Colorado",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 39
+			},
+			{
+				"state": "Connecticut",
+				"electoralVotes": 7,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Delaware",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "District-of-Columbia",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Florida",
+				"electoralVotes": 30,
+				"RepublicanElectoralVotes": 30,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 43.3,
+				"RepublicanPollPercentage": 47.3
+			},
+			{
+				"state": "Georgia",
+				"electoralVotes": 16,
+				"RepublicanElectoralVotes": 16,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45.4,
+				"RepublicanPollPercentage": 45.8
+			},
+			{
+				"state": "Hawaii",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Idaho",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 26,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Illinois",
+				"electoralVotes": 19,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 19,
+				"DemocratPollPercentage": 43,
+				"RepublicanPollPercentage": 34
+			},
+			{
+				"state": "Indiana",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 11,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 34,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Iowa",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 32,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Kansas",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 47
+			},
+			{
+				"state": "Kentucky",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 8,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 26,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Louisiana",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 8,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 33,
+				"RepublicanPollPercentage": 48
+			},
+			{
+				"state": "Maine",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 62,
+				"RepublicanPollPercentage": 33
+			},
+			{
+				"state": "Maryland",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 59,
+				"RepublicanPollPercentage": 29
+			},
+			{
+				"state": "Massachusetts",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 11,
+				"DemocratPollPercentage": 51.5,
+				"RepublicanPollPercentage": 26.5
+			},
+			{
+				"state": "Michigan",
+				"electoralVotes": 15,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 15,
+				"DemocratPollPercentage": 45.8,
+				"RepublicanPollPercentage": 45.2
+			},
+			{
+				"state": "Minnesota",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 41
+			},
+			{
+				"state": "Mississippi",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Missouri",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 10,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 35,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Montana",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 38.7,
+				"RepublicanPollPercentage": 54.3
+			},
+			{
+				"state": "Nebraska",
+				"electoralVotes": 5,
+				"RepublicanElectoralVotes": 5,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 37,
+				"RepublicanPollPercentage": 54
+			},
+			{
+				"state": "Nevada",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45.8,
+				"RepublicanPollPercentage": 46.2
+			},
+			{
+				"state": "New-Hampshire",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 47,
+				"RepublicanPollPercentage": 42
+			},
+			{
+				"state": "New-Jersey",
+				"electoralVotes": 14,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 14,
+				"DemocratPollPercentage": 41,
+				"RepublicanPollPercentage": 36
+			},
+			{
+				"state": "New-Mexico",
+				"electoralVotes": 5,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 5,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 40
+			},
+			{
+				"state": "New-York",
+				"electoralVotes": 28,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 28,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 37
+			},
+			{
+				"state": "North-Carolina",
+				"electoralVotes": 16,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 16,
+				"DemocratPollPercentage": 46.2,
+				"RepublicanPollPercentage": 45.6
+			},
+			{
+				"state": "North-Dakota",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 28,
+				"RepublicanPollPercentage": 62
+			},
+			{
+				"state": "Ohio",
+				"electoralVotes": 17,
+				"RepublicanElectoralVotes": 17,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 39,
+				"RepublicanPollPercentage": 48
+			},
+			{
+				"state": "Oklahoma",
+				"electoralVotes": 7,
+				"RepublicanElectoralVotes": 7,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 27,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Oregon",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 8,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 40
+			},
+			{
+				"state": "Pennsylvania",
+				"electoralVotes": 19,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 19,
+				"DemocratPollPercentage": 46.8,
+				"RepublicanPollPercentage": 44.6
+			},
+			{
+				"state": "Rhode-Island",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 40,
+				"RepublicanPollPercentage": 33
+			},
+			{
+				"state": "South-Carolina",
+				"electoralVotes": 9,
+				"RepublicanElectoralVotes": 9,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 32,
+				"RepublicanPollPercentage": 49
+			},
+			{
+				"state": "South-Dakota",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Tennessee",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 11,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 28,
+				"RepublicanPollPercentage": 57
+			},
+			{
+				"state": "Texas",
+				"electoralVotes": 40,
+				"RepublicanElectoralVotes": 40,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Utah",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 25,
+				"RepublicanPollPercentage": 51
+			},
+			{
+				"state": "Vermont",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 3,
+				"DemocratPollPercentage": 67,
+				"RepublicanPollPercentage": 27
+			},
+			{
+				"state": "Virginia",
+				"electoralVotes": 13,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 13,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 42
+			},
+			{
+				"state": "Washington",
+				"electoralVotes": 12,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 12,
+				"DemocratPollPercentage": 52,
+				"RepublicanPollPercentage": 38
+			},
+			{
+				"state": "West-Virginia",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 34,
+				"RepublicanPollPercentage": 61
+			},
+			{
+				"state": "Wisconsin",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 48.4,
+				"RepublicanPollPercentage": 43.2
+			},
+			{
+				"state": "Wyoming",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 15,
+				"RepublicanPollPercentage": 68
+			},
+			{
+				"state": "national",
+				"electoralVotes": 538,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			}
+		],
+		"2024-09-01T00:00:00-07:00": [
+			{
+				"state": "Alabama",
+				"electoralVotes": 9,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Alaska",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 29,
+				"RepublicanPollPercentage": 37
+			},
+			{
+				"state": "Arizona",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 11,
+				"DemocratPollPercentage": 46.4,
+				"RepublicanPollPercentage": 45.4
+			},
+			{
+				"state": "Arkansas",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 24,
+				"RepublicanPollPercentage": 57
+			},
+			{
+				"state": "California",
+				"electoralVotes": 54,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 54,
+				"DemocratPollPercentage": 59,
+				"RepublicanPollPercentage": 34
+			},
+			{
+				"state": "Colorado",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 39
+			},
+			{
+				"state": "Connecticut",
+				"electoralVotes": 7,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Delaware",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "District-of-Columbia",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Florida",
+				"electoralVotes": 30,
+				"RepublicanElectoralVotes": 30,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 43.3,
+				"RepublicanPollPercentage": 47.3
+			},
+			{
+				"state": "Georgia",
+				"electoralVotes": 16,
+				"RepublicanElectoralVotes": 16,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45.4,
+				"RepublicanPollPercentage": 45.8
+			},
+			{
+				"state": "Hawaii",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Idaho",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 26,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Illinois",
+				"electoralVotes": 19,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 19,
+				"DemocratPollPercentage": 43,
+				"RepublicanPollPercentage": 34
+			},
+			{
+				"state": "Indiana",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 11,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 34,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Iowa",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 32,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Kansas",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 47
+			},
+			{
+				"state": "Kentucky",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 8,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 26,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Louisiana",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 8,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 33,
+				"RepublicanPollPercentage": 48
+			},
+			{
+				"state": "Maine",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 62,
+				"RepublicanPollPercentage": 33
+			},
+			{
+				"state": "Maryland",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 59,
+				"RepublicanPollPercentage": 29
+			},
+			{
+				"state": "Massachusetts",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 11,
+				"DemocratPollPercentage": 51.5,
+				"RepublicanPollPercentage": 26.5
+			},
+			{
+				"state": "Michigan",
+				"electoralVotes": 15,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 15,
+				"DemocratPollPercentage": 45.8,
+				"RepublicanPollPercentage": 45.2
+			},
+			{
+				"state": "Minnesota",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 41
+			},
+			{
+				"state": "Mississippi",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Missouri",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 10,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 35,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Montana",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 38.7,
+				"RepublicanPollPercentage": 54.3
+			},
+			{
+				"state": "Nebraska",
+				"electoralVotes": 5,
+				"RepublicanElectoralVotes": 5,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 37,
+				"RepublicanPollPercentage": 54
+			},
+			{
+				"state": "Nevada",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45.8,
+				"RepublicanPollPercentage": 46.2
+			},
+			{
+				"state": "New-Hampshire",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 47,
+				"RepublicanPollPercentage": 42
+			},
+			{
+				"state": "New-Jersey",
+				"electoralVotes": 14,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 14,
+				"DemocratPollPercentage": 41,
+				"RepublicanPollPercentage": 36
+			},
+			{
+				"state": "New-Mexico",
+				"electoralVotes": 5,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 5,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 40
+			},
+			{
+				"state": "New-York",
+				"electoralVotes": 28,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 28,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 37
+			},
+			{
+				"state": "North-Carolina",
+				"electoralVotes": 16,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 16,
+				"DemocratPollPercentage": 46.2,
+				"RepublicanPollPercentage": 45.6
+			},
+			{
+				"state": "North-Dakota",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 28,
+				"RepublicanPollPercentage": 62
+			},
+			{
+				"state": "Ohio",
+				"electoralVotes": 17,
+				"RepublicanElectoralVotes": 17,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 39,
+				"RepublicanPollPercentage": 48
+			},
+			{
+				"state": "Oklahoma",
+				"electoralVotes": 7,
+				"RepublicanElectoralVotes": 7,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 27,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Oregon",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 8,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 40
+			},
+			{
+				"state": "Pennsylvania",
+				"electoralVotes": 19,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 19,
+				"DemocratPollPercentage": 46.8,
+				"RepublicanPollPercentage": 44.6
+			},
+			{
+				"state": "Rhode-Island",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 40,
+				"RepublicanPollPercentage": 33
+			},
+			{
+				"state": "South-Carolina",
+				"electoralVotes": 9,
+				"RepublicanElectoralVotes": 9,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 32,
+				"RepublicanPollPercentage": 49
+			},
+			{
+				"state": "South-Dakota",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Tennessee",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 11,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 28,
+				"RepublicanPollPercentage": 57
+			},
+			{
+				"state": "Texas",
+				"electoralVotes": 40,
+				"RepublicanElectoralVotes": 40,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Utah",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 25,
+				"RepublicanPollPercentage": 51
+			},
+			{
+				"state": "Vermont",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 3,
+				"DemocratPollPercentage": 67,
+				"RepublicanPollPercentage": 27
+			},
+			{
+				"state": "Virginia",
+				"electoralVotes": 13,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 13,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 42
+			},
+			{
+				"state": "Washington",
+				"electoralVotes": 12,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 12,
+				"DemocratPollPercentage": 52,
+				"RepublicanPollPercentage": 38
+			},
+			{
+				"state": "West-Virginia",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 34,
+				"RepublicanPollPercentage": 61
+			},
+			{
+				"state": "Wisconsin",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 48.4,
+				"RepublicanPollPercentage": 43.2
+			},
+			{
+				"state": "Wyoming",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 15,
+				"RepublicanPollPercentage": 68
+			},
+			{
+				"state": "national",
+				"electoralVotes": 538,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			}
+		],
+		"2024-09-02T00:00:00-07:00": [
+			{
+				"state": "Alabama",
+				"electoralVotes": 9,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Alaska",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 29,
+				"RepublicanPollPercentage": 37
+			},
+			{
+				"state": "Arizona",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 11,
+				"DemocratPollPercentage": 46.4,
+				"RepublicanPollPercentage": 45.4
+			},
+			{
+				"state": "Arkansas",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 24,
+				"RepublicanPollPercentage": 57
+			},
+			{
+				"state": "California",
+				"electoralVotes": 54,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 54,
+				"DemocratPollPercentage": 59,
+				"RepublicanPollPercentage": 34
+			},
+			{
+				"state": "Colorado",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 39
+			},
+			{
+				"state": "Connecticut",
+				"electoralVotes": 7,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Delaware",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "District-of-Columbia",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Florida",
+				"electoralVotes": 30,
+				"RepublicanElectoralVotes": 30,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 43.3,
+				"RepublicanPollPercentage": 47.3
+			},
+			{
+				"state": "Georgia",
+				"electoralVotes": 16,
+				"RepublicanElectoralVotes": 16,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45.4,
+				"RepublicanPollPercentage": 45.8
+			},
+			{
+				"state": "Hawaii",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Idaho",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 26,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Illinois",
+				"electoralVotes": 19,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 19,
+				"DemocratPollPercentage": 43,
+				"RepublicanPollPercentage": 34
+			},
+			{
+				"state": "Indiana",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 11,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 34,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Iowa",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 32,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Kansas",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 47
+			},
+			{
+				"state": "Kentucky",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 8,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 26,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Louisiana",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 8,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 33,
+				"RepublicanPollPercentage": 48
+			},
+			{
+				"state": "Maine",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 62,
+				"RepublicanPollPercentage": 33
+			},
+			{
+				"state": "Maryland",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 59,
+				"RepublicanPollPercentage": 29
+			},
+			{
+				"state": "Massachusetts",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 11,
+				"DemocratPollPercentage": 51.5,
+				"RepublicanPollPercentage": 26.5
+			},
+			{
+				"state": "Michigan",
+				"electoralVotes": 15,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 15,
+				"DemocratPollPercentage": 45.8,
+				"RepublicanPollPercentage": 45.2
+			},
+			{
+				"state": "Minnesota",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 41
+			},
+			{
+				"state": "Mississippi",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Missouri",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 10,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 35,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Montana",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 38.7,
+				"RepublicanPollPercentage": 54.3
+			},
+			{
+				"state": "Nebraska",
+				"electoralVotes": 5,
+				"RepublicanElectoralVotes": 5,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 37,
+				"RepublicanPollPercentage": 54
+			},
+			{
+				"state": "Nevada",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45.8,
+				"RepublicanPollPercentage": 46.2
+			},
+			{
+				"state": "New-Hampshire",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 47,
+				"RepublicanPollPercentage": 42
+			},
+			{
+				"state": "New-Jersey",
+				"electoralVotes": 14,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 14,
+				"DemocratPollPercentage": 41,
+				"RepublicanPollPercentage": 36
+			},
+			{
+				"state": "New-Mexico",
+				"electoralVotes": 5,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 5,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 40
+			},
+			{
+				"state": "New-York",
+				"electoralVotes": 28,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 28,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 37
+			},
+			{
+				"state": "North-Carolina",
+				"electoralVotes": 16,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 16,
+				"DemocratPollPercentage": 46.2,
+				"RepublicanPollPercentage": 45.6
+			},
+			{
+				"state": "North-Dakota",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 28,
+				"RepublicanPollPercentage": 62
+			},
+			{
+				"state": "Ohio",
+				"electoralVotes": 17,
+				"RepublicanElectoralVotes": 17,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 39,
+				"RepublicanPollPercentage": 48
+			},
+			{
+				"state": "Oklahoma",
+				"electoralVotes": 7,
+				"RepublicanElectoralVotes": 7,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 27,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Oregon",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 8,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 40
+			},
+			{
+				"state": "Pennsylvania",
+				"electoralVotes": 19,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 19,
+				"DemocratPollPercentage": 46.8,
+				"RepublicanPollPercentage": 44.6
+			},
+			{
+				"state": "Rhode-Island",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 40,
+				"RepublicanPollPercentage": 33
+			},
+			{
+				"state": "South-Carolina",
+				"electoralVotes": 9,
+				"RepublicanElectoralVotes": 9,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 32,
+				"RepublicanPollPercentage": 49
+			},
+			{
+				"state": "South-Dakota",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Tennessee",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 11,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 28,
+				"RepublicanPollPercentage": 57
+			},
+			{
+				"state": "Texas",
+				"electoralVotes": 40,
+				"RepublicanElectoralVotes": 40,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Utah",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 25,
+				"RepublicanPollPercentage": 51
+			},
+			{
+				"state": "Vermont",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 3,
+				"DemocratPollPercentage": 67,
+				"RepublicanPollPercentage": 27
+			},
+			{
+				"state": "Virginia",
+				"electoralVotes": 13,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 13,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 42
+			},
+			{
+				"state": "Washington",
+				"electoralVotes": 12,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 12,
+				"DemocratPollPercentage": 52,
+				"RepublicanPollPercentage": 38
+			},
+			{
+				"state": "West-Virginia",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 34,
+				"RepublicanPollPercentage": 61
+			},
+			{
+				"state": "Wisconsin",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 48.4,
+				"RepublicanPollPercentage": 43.2
+			},
+			{
+				"state": "Wyoming",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 15,
+				"RepublicanPollPercentage": 68
+			},
+			{
+				"state": "national",
+				"electoralVotes": 538,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			}
+		],
+		"2024-09-03T00:00:00-07:00": [
+			{
+				"state": "Alabama",
+				"electoralVotes": 9,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Alaska",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 29,
+				"RepublicanPollPercentage": 37
+			},
+			{
+				"state": "Arizona",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 11,
+				"DemocratPollPercentage": 46.4,
+				"RepublicanPollPercentage": 45.4
+			},
+			{
+				"state": "Arkansas",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 24,
+				"RepublicanPollPercentage": 57
+			},
+			{
+				"state": "California",
+				"electoralVotes": 54,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 54,
+				"DemocratPollPercentage": 59,
+				"RepublicanPollPercentage": 34
+			},
+			{
+				"state": "Colorado",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 39
+			},
+			{
+				"state": "Connecticut",
+				"electoralVotes": 7,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Delaware",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "District-of-Columbia",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Florida",
+				"electoralVotes": 30,
+				"RepublicanElectoralVotes": 30,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 43.3,
+				"RepublicanPollPercentage": 47.3
+			},
+			{
+				"state": "Georgia",
+				"electoralVotes": 16,
+				"RepublicanElectoralVotes": 16,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45.4,
+				"RepublicanPollPercentage": 45.8
+			},
+			{
+				"state": "Hawaii",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Idaho",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 26,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Illinois",
+				"electoralVotes": 19,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 19,
+				"DemocratPollPercentage": 43,
+				"RepublicanPollPercentage": 34
+			},
+			{
+				"state": "Indiana",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 11,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 34,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Iowa",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 32,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Kansas",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 47
+			},
+			{
+				"state": "Kentucky",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 8,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 26,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Louisiana",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 8,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 33,
+				"RepublicanPollPercentage": 48
+			},
+			{
+				"state": "Maine",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 62,
+				"RepublicanPollPercentage": 33
+			},
+			{
+				"state": "Maryland",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 59,
+				"RepublicanPollPercentage": 29
+			},
+			{
+				"state": "Massachusetts",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 11,
+				"DemocratPollPercentage": 51.5,
+				"RepublicanPollPercentage": 26.5
+			},
+			{
+				"state": "Michigan",
+				"electoralVotes": 15,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 15,
+				"DemocratPollPercentage": 45.8,
+				"RepublicanPollPercentage": 45.2
+			},
+			{
+				"state": "Minnesota",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 51,
+				"RepublicanPollPercentage": 42
+			},
+			{
+				"state": "Mississippi",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			},
+			{
+				"state": "Missouri",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 10,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 35,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Montana",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 38.7,
+				"RepublicanPollPercentage": 54.3
+			},
+			{
+				"state": "Nebraska",
+				"electoralVotes": 5,
+				"RepublicanElectoralVotes": 5,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 37,
+				"RepublicanPollPercentage": 54
+			},
+			{
+				"state": "Nevada",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45.8,
+				"RepublicanPollPercentage": 46.2
+			},
+			{
+				"state": "New-Hampshire",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 47,
+				"RepublicanPollPercentage": 42
+			},
+			{
+				"state": "New-Jersey",
+				"electoralVotes": 14,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 14,
+				"DemocratPollPercentage": 41,
+				"RepublicanPollPercentage": 36
+			},
+			{
+				"state": "New-Mexico",
+				"electoralVotes": 5,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 5,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 40
+			},
+			{
+				"state": "New-York",
+				"electoralVotes": 28,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 28,
+				"DemocratPollPercentage": 49,
+				"RepublicanPollPercentage": 37
+			},
+			{
+				"state": "North-Carolina",
+				"electoralVotes": 16,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 16,
+				"DemocratPollPercentage": 46.2,
+				"RepublicanPollPercentage": 45.6
+			},
+			{
+				"state": "North-Dakota",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 28,
+				"RepublicanPollPercentage": 62
+			},
+			{
+				"state": "Ohio",
+				"electoralVotes": 17,
+				"RepublicanElectoralVotes": 17,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 39,
+				"RepublicanPollPercentage": 48
+			},
+			{
+				"state": "Oklahoma",
+				"electoralVotes": 7,
+				"RepublicanElectoralVotes": 7,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 27,
+				"RepublicanPollPercentage": 55
+			},
+			{
+				"state": "Oregon",
+				"electoralVotes": 8,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 8,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 40
+			},
+			{
+				"state": "Pennsylvania",
+				"electoralVotes": 19,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 19,
+				"DemocratPollPercentage": 46.8,
+				"RepublicanPollPercentage": 44.6
+			},
+			{
+				"state": "Rhode-Island",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 4,
+				"DemocratPollPercentage": 40,
+				"RepublicanPollPercentage": 33
+			},
+			{
+				"state": "South-Carolina",
+				"electoralVotes": 9,
+				"RepublicanElectoralVotes": 9,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 32,
+				"RepublicanPollPercentage": 49
+			},
+			{
+				"state": "South-Dakota",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 31,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Tennessee",
+				"electoralVotes": 11,
+				"RepublicanElectoralVotes": 11,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 28,
+				"RepublicanPollPercentage": 57
+			},
+			{
+				"state": "Texas",
+				"electoralVotes": 40,
+				"RepublicanElectoralVotes": 40,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 50
+			},
+			{
+				"state": "Utah",
+				"electoralVotes": 6,
+				"RepublicanElectoralVotes": 6,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 25,
+				"RepublicanPollPercentage": 51
+			},
+			{
+				"state": "Vermont",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 3,
+				"DemocratPollPercentage": 67,
+				"RepublicanPollPercentage": 27
+			},
+			{
+				"state": "Virginia",
+				"electoralVotes": 13,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 13,
+				"DemocratPollPercentage": 45,
+				"RepublicanPollPercentage": 42
+			},
+			{
+				"state": "Washington",
+				"electoralVotes": 12,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 12,
+				"DemocratPollPercentage": 52,
+				"RepublicanPollPercentage": 38
+			},
+			{
+				"state": "West-Virginia",
+				"electoralVotes": 4,
+				"RepublicanElectoralVotes": 4,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 34,
+				"RepublicanPollPercentage": 61
+			},
+			{
+				"state": "Wisconsin",
+				"electoralVotes": 10,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 10,
+				"DemocratPollPercentage": 48.4,
+				"RepublicanPollPercentage": 43.2
+			},
+			{
+				"state": "Wyoming",
+				"electoralVotes": 3,
+				"RepublicanElectoralVotes": 3,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": 15,
+				"RepublicanPollPercentage": 68
+			},
+			{
+				"state": "national",
+				"electoralVotes": 538,
+				"RepublicanElectoralVotes": 0,
+				"DemocratElectoralVotes": 0,
+				"DemocratPollPercentage": null,
+				"RepublicanPollPercentage": null
+			}
+		]
+	}
+}

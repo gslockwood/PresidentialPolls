@@ -1,0 +1,265 @@
+﻿        public static object GetData(string state, string html)
+        {
+            HtmlAgilityPack.HtmlDocument document = new();
+
+            document.LoadHtml(html);
+
+            HtmlNode alert_danger = document.DocumentNode.SelectSingleNode("//div/div[contains(@class, 'alert-danger')]");
+            if( alert_danger != null )
+                throw new NoPollingDataException(state);                //return new PollData(0, 0);
+
+
+            //HtmlNode main_content = document.GetElementbyId("main-content");
+            //if( main_content == null ) return;
+
+            //HtmlNodeCollection nodeCollection = document.DocumentNode.SelectNodes("//table[contains(@id, 'polls')]");
+            //HtmlNodeCollection nodeCollection = document.DocumentNode.SelectNodes("//div[contains(@class, 'polls-wrapper')]");
+
+            //again:
+            HtmlNode? table = GetTable(document, "Including Third Parties and Independents");
+            //goto again;
+            //if( table == null ) return null;
+            if( table == null )
+            {
+                HtmlNodeCollection nodeCollection = document.DocumentNode.SelectNodes("//table[contains(@id, 'polls')]");
+                table = nodeCollection[0];
+            }
+            //goto again;
+
+
+            //HtmlNode header = nodeCollection[1].SelectSingleNode("//tr[contains(@id, 'poll_avg_row')]");
+
+
+            HtmlNodeCollection nodeHeaders = table.SelectNodes("thead/tr/th");
+            if( nodeHeaders == null ) return null;
+            //goto again;
+            //nodeHeaders.ToList().IndexOf();
+
+            DateTime lastPollingDate = DateTime.MinValue;
+            HtmlNode dateTDLastestPoll;
+
+            int bidenIndex = 0;
+            int harrisIndex = 0;
+            int trumpIndex = 0;
+            for( int index = 0; index < nodeHeaders.Count; index++ )
+            {
+                HtmlNode nodeHeader = nodeHeaders[index];
+                if( nodeHeader.InnerText.Contains(Candidate.Harris.ToString()) )
+                    harrisIndex = index;
+                else if( nodeHeader.InnerText.Contains(Candidate.Biden.ToString()) )
+                    bidenIndex = index;
+                else if( nodeHeader.InnerText.Contains(Candidate.Trump.ToString()) )
+                    trumpIndex = index;
+            }
+
+            if( harrisIndex == 0 && bidenIndex != 0 )
+            {
+                harrisIndex = bidenIndex;
+                //throw new DemocratColumnMissingException(state + " Biden"); //return null;
+            }
+            if( harrisIndex == 0 ) throw new DemocratColumnMissingException(state); //return null;
+            if( trumpIndex == 0 ) throw new RepublicanColumnMissingException(state); //return null;
+            //goto again;
+
+            //again0:
+
+            float democratPoll = 0;
+            float republicanPoll = 0;
+
+            bool oldPoll = false;
+            //bool oldBiden = false;
+
+            //HtmlNodeCollection polldateTd000 = table.SelectNodes("tbody/tr/td[contains(@class, 'poll_date')]");
+            //if( polldateTd000 == null )
+            //{
+            //}
+            HtmlNode poll_avg_row = table.SelectSingleNode("tbody/tr[contains(@id, 'poll_date')]");
+            poll_avg_row ??= table.SelectSingleNode("tr[contains(@id, 'poll_avg_row')]");
+            if( poll_avg_row == null )
+            {
+                List<HtmlNode> rows = [];
+                //<td class="poll_date">11/17/2023</td>
+                HtmlNodeCollection polldateTds = table.SelectNodes("tbody/tr/td[contains(@class, 'poll_date')]");
+                polldateTds ??= table.SelectNodes("tr/td[contains(@class, 'poll_date')]");
+
+                if( polldateTds == null || polldateTds.Count == 0 )
+                {
+                    HtmlNodeCollection tr = table.SelectNodes("tbody/tr");
+                    //if( row == null )
+                    if( tr == null )
+                        tr = table.SelectNodes("tr");
+
+                    if( tr != null && tr.Count == 1 )
+                    {
+                        polldateTds = tr[0].SelectNodes("td[contains(@class, 'poll_date')]");
+                        //
+                    }
+                    else
+                    {
+                        //adsf:
+                        //    System.Diagnostics.Debug.WriteLine("couldn't find tds " + state);
+                        //    goto adsf;
+                    }
+                }
+                //return null;
+
+                //goto again0;
+
+                if( polldateTds == null || polldateTds.Count == 0 )
+                {
+                    throw new NoPollingDataException(state);
+                    //HtmlNodeCollection trs = table.SelectNodes("tr");
+                    //polldateTds = trs[0].SelectNodes("td[contains(@class, 'poll_date')]");
+                }
+
+
+                foreach( HtmlNode polldateTd in polldateTds )
+                {
+                    string datestr = polldateTd.InnerText.Trim();
+                    if( DateTime.TryParse(datestr, out DateTime dt) )
+                    {
+                        if( DateTime.Now - dt < TimeSpan.FromDays(15) )
+                            rows.Add(polldateTd.ParentNode);
+                    }
+                }
+
+
+                //candidate_id="10027" harris
+                //candidate_id="10011" biden
+                //candidate_id="10001" trump
+
+                if( rows.Count == 0 )
+                {
+                    oldPoll = true;
+                    rows.Add(polldateTds[0].ParentNode);
+                }
+
+                if( rows.Count > 0 )
+                {
+                    HtmlNode firstRawDataRow0 = rows[0];
+                    dateTDLastestPoll = firstRawDataRow0.SelectSingleNode("td[contains(@class, 'poll_date')]");
+                    if( dateTDLastestPoll != null )
+                    {
+                        string datestr = dateTDLastestPoll.InnerText.Trim();
+                        DateTime.TryParse(datestr, out lastPollingDate);
+                    }
+                }
+
+                foreach( HtmlNode rowDates in rows )
+                {
+                    HtmlNode rowDate = rowDates.SelectSingleNode("td[contains(@candidate_id, '10027')]");
+                    if( rowDate != null )
+                    {
+                        float ddd = float.Parse(rowDate.InnerText.Trim().Replace("%", ""));
+                        democratPoll += ddd;
+                    }
+
+                    rowDate = rowDates.SelectSingleNode("td[contains(@candidate_id, '10011')]");
+                    if( rowDate != null )
+                    {
+                        float ddd = float.Parse(rowDate.InnerText.Trim().Replace("%", ""));
+                        democratPoll += ddd;
+                    }
+
+                    rowDate = rowDates.SelectSingleNode("td[contains(@candidate_id, '10001')]");
+                    if( rowDate != null )
+                    {
+                        float ddd = float.Parse(rowDate.InnerText.Trim().Replace("%", ""));
+                        republicanPoll += ddd;
+                    }
+
+                }
+
+                //if( rows.Count == 0 )
+                //    return new PollData(state, 0, 0);
+
+                democratPoll /= rows.Count;
+                republicanPoll /= rows.Count;
+
+                return new PollData(state, lastPollingDate, democratPoll, republicanPoll, ( bidenIndex != 0 ), oldPoll);
+                //
+            }
+            //goto again0;
+
+            //row = table.SelectSingleNode("tbody/tr[contains(@id, 'poll_avg_row')]");
+            //if( row == null ) return null;
+
+            HtmlNode firstRawDataRow = poll_avg_row.NextSibling;
+            if( firstRawDataRow.NodeType == HtmlNodeType.Text )
+                firstRawDataRow = firstRawDataRow.NextSibling;
+
+            dateTDLastestPoll = firstRawDataRow.SelectSingleNode("td[contains(@class, 'poll_date')]");
+
+
+            if( dateTDLastestPoll != null )
+            {
+                string datestr = dateTDLastestPoll.InnerText.Trim();
+                DateTime.TryParse(datestr, out lastPollingDate);
+            }
+
+            HtmlNodeCollection tds = poll_avg_row.SelectNodes("td");
+
+        again0:
+            IList<StatesPollData> statesPollDataList = [];
+
+            HtmlNodeCollection allPolldatetds = table.SelectNodes("tr/td[contains(@class, 'poll_date')]");
+            if( allPolldatetds != null )
+            {
+                foreach( HtmlNode singlePolldateTD in allPolldatetds )
+                {
+                    float democratPollValue = 0;
+                    float republicanPollValue = 0;
+                    Logger.Log(singlePolldateTD.InnerText);
+                    string datestr = singlePolldateTD.InnerText.Trim();
+                    if( DateTime.TryParse(datestr, out DateTime dt) )
+                    {
+                        HtmlNode rowDates = singlePolldateTD.ParentNode;
+                        HtmlNode poll_src = rowDates.SelectSingleNode("td[contains(@class, 'poll_src')]");
+                        if( poll_src == null ) continue;
+
+                        HtmlNode rowDate = rowDates.SelectSingleNode("td[contains(@candidate_id, '10027')]");
+                        if( rowDate != null )
+                        {
+                            democratPollValue = float.Parse(rowDate.InnerText.Trim().Replace("%", ""));
+                        }
+
+                        rowDate = rowDates.SelectSingleNode("td[contains(@candidate_id, '10011')]");
+                        if( rowDate != null )
+                        {
+                            democratPollValue = float.Parse(rowDate.InnerText.Trim().Replace("%", ""));
+                        }
+
+                        rowDate = rowDates.SelectSingleNode("td[contains(@candidate_id, '10001')]");
+                        if( rowDate != null )
+                        {
+                            republicanPollValue = float.Parse(rowDate.InnerText.Trim().Replace("%", ""));
+                        }
+
+                        StatesPollData statesPollData = new StatesPollData();
+                        statesPollData.Date = dt;
+                        statesPollData.State = state;
+                        statesPollData.Source = poll_src.InnerText.Trim();
+                        statesPollData.DemocratPollPercentage = democratPollValue;
+                        statesPollData.RepublicanPollPercentage = republicanPollValue;
+                        statesPollDataList.Add(statesPollData);
+                    }
+                }
+
+            }
+            //goto again0;
+            return statesPollDataList;
+
+
+            HtmlNode demValue = tds[harrisIndex - 2];
+            HtmlNode repValue = tds[trumpIndex - 2];
+
+            //System.Diagnostics.Debug.WriteLine($"harris ={harris.InnerText.Trim()} trump={trump.InnerText.Trim()}");
+
+            democratPoll = float.Parse(demValue.InnerText.Trim().Replace("%", ""));
+            republicanPoll = float.Parse(repValue.InnerText.Trim().Replace("%", ""));
+
+            return new PollData(state, lastPollingDate, democratPoll, republicanPoll, ( bidenIndex != 0 ), oldPoll);
+
+            //goto again;
+        }
+
